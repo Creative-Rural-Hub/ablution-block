@@ -11,7 +11,7 @@ Various composting processes can be used in combination where appropriate:
 
 
 
-References: 
+## References: 
 
 https://wiki.opensourceecology.org/wiki/Thermophilic_compost 
 
