@@ -22,8 +22,6 @@ We would like to use open source model for developing solution for ablution bloc
 This design is offered to make for non-commercial use under the terms of the following license: 
 [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-![CC license icon](assets/by-nc-sa.png)
-
 If you would like to use the design for anything not defined by this license please get in touch with our core team.
 
 
