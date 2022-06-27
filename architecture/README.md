@@ -1,5 +1,10 @@
-# Solutions for ablution block in terms of architectural form
+# Architecture of ablution block
 
+## A Section to collect and discuss solution from architects perspective
+
+* Draft plan
 * Shape and form 
-* materials
+* Materials
+* Building Techniques
+* Lifespan
 
