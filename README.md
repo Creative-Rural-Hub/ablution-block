@@ -8,13 +8,14 @@ We have been experimenting with various systems for sustainable  lifestyle, incl
 
 
 ## Approach 
-We would like to use open source model for developing solution for ablution block in these main groups: 
+We would like to use open source model for developing solution for ablution block in these main groups  
 
-* water collection/filtering
-* electric power
-* heating/cooling 
-* composting 
-* grey/black water filtering reuse
+* Architecture (general concept, shape, materials, construction methods, user experience) 
+* Water (Drinking water collection/filtration,)
+* Power (Electricity source)
+* Composting (composter for all organic waste)
+* Heating / cooling ( heat system for all purposes)
+* Brains (smart systems to control everything and collect usage data)
 
 
 ## License 
