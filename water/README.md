@@ -1,6 +1,6 @@
 # Water Solutions
 
-## Drinking water 
+## Drinking water / Technical water
 In some locations where there is unverified water source or no water source, it would be great if Ablution block could have some kind of water collection and filtration system. 
 Water filtration system can make sure that there is a source of drinking / technical water that is safe to use.
 
