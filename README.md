@@ -20,6 +20,11 @@ We would like to use open source model for developing solutions for ablution blo
 There is an overlap in all this categories and there could be common modules, so these categories are mainly for easier collaboration and grouping problems by expertise. 
 
 
+## How to contribute 
+
+Create a fork of the project, edit readme.md files in various sections with your suggestions, create pull requests. 
+
+
 ## License 
 
 This design is offered to make for non-commercial use under the terms of the following license: 
