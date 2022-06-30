@@ -17,5 +17,8 @@ Seperating grey water can make it much easier to clean and reuse water. Using av
 
 ### Black water
 We would like to work on low cost and effcicient alternative to septic tanks for black water. One of the alternatives available on the market is Bio-Septics of different types. 
+
+
+
 Our aim is to test existing systems in order to developing an open source set of instructions for producing bio-septic. 
 
