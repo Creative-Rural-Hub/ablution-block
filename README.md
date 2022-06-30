@@ -22,7 +22,7 @@ There is an overlap in all this categories and there could be common modules, so
 
 ## How to contribute 
 
-Create a fork of the project, edit readme.md files in various sections with your suggestions, create pull requests. 
+Create a fork of the project, edit readme.md files in various sections with your suggestions, create pull requests. For any questions message core team.
 
 
 ## License 
