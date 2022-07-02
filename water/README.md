@@ -22,3 +22,5 @@ We would like to work on low cost and effcicient alternative to septic tanks for
 
 Our aim is to test existing systems in order to developing an open source set of instructions for producing bio-septic. 
 
+
+## Useful examples:
