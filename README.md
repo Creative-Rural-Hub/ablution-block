@@ -1,6 +1,6 @@
 # Open Source off grid ablution block
 
-[картинка] (https://f.kyivmaps.com/location/4999/pmasI.jpg)
+![картинка] (https://f.kyivmaps.com/location/4999/pmasI.jpg)
 
 ## Definition
 Ablution block is a simple structure with toilets, showers, and wash basins, for communal use, as at a camping ground, caravan park , etc. It can also include facilities for cooking food, washing cloth and common sitting area. 
